@@ -65,3 +65,6 @@ Host: www.google.com
 -  **Admin/root privileges** may be required to sniff packets depending on your OS.
 -  Use this script only on networks where you have permission
 -  This tool is strictly for **educational and ethical purposes**.
+
+## License
+MIT License - feel free to fork, modify, and enhance responsibly.
